@@ -1,0 +1,1 @@
+[OxCGRT](https://github.com/OxCGRT/covid-policy-tracker) is the source for `OxCGRT_latest_combined.csv`. Column descriptions are available at [codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md).
